@@ -1,5 +1,5 @@
 local sound = Instance.new("Sound")
-sound.SoundId = "rbxassetid://1832808956" -- Replace INSERT_SOUND_ID_HERE with the ID of your "bing" sound
+sound.SoundId = "rbxassetid://5476307813" -- Replace INSERT_SOUND_ID_HERE with the ID of your "bing" sound
 sound.Parent = workspace
 sound:Play()
 game.StarterGui:SetCore("SendNotification", {Title = "Closed", Text = "Closed", Duration = 5,})
